@@ -1,0 +1,26 @@
+[
+    {
+        "package": "petrographer",
+        "url": "https://github.com/flmnh-ai/petrographer"
+    },
+    {
+        "package": "tidyvec",
+        "url": "https://github.com/flmnh-ai/tidyvec"
+    },
+    {
+        "package": "yersinia",
+        "url": "https://github.com/flmnh-ai/yersinia"
+    },
+    {
+        "package": "hipergator",
+        "url": "https://github.com/flmnh-ai/hipergator"
+    },
+    {
+        "package": "tidyEOF",
+        "url": "https://github.com/nick-gauthier/tidyEOF"
+    },
+    {
+        "package": "malthus",
+        "url": "https://github.com/nick-gauthier/malthus"
+    }
+]
