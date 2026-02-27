@@ -16,8 +16,8 @@
         "url": "https://github.com/flmnh-ai/hipergator"
     },
     {
-        "package": "tidyEOF",
-        "url": "https://github.com/nick-gauthier/tidyEOF"
+        "package": "tidyeof",
+        "url": "https://github.com/nick-gauthier/tidyeof"
     },
     {
         "package": "malthus",
