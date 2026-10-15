@@ -22,5 +22,8 @@
     {
         "package": "malthus",
         "url": "https://github.com/nick-gauthier/malthus"
+    },
+    { 
+        "package": "globalhex", "url": "https://github.com/flmnh-ai/globalhex" 
     }
 ]
